@@ -1,3 +1,3 @@
 public
 ======
-A testing repo!
+A test repo!
